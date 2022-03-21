@@ -37,7 +37,7 @@ a{
 
 .cloud-1{
   position: absolute;
-  right: 400px;
+  right: 150px;
   top:50px;
 }
 .cloud-2{
@@ -45,12 +45,12 @@ a{
 }
 .cloud-3{
   position: absolute;
-  left: 200px;
+  left: 100px;
   top: 50px;
 }
 .cloud-4{
   position: absolute;
-  right:200px;
+  right:40px;
 }
 p{
   color: #1B1A17;
