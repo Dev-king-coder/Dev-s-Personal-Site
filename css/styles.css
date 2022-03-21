@@ -138,14 +138,26 @@ hr{
   width: 50px;
   margin-right: 20px;
 }
+.linkedin:hover{
+  height:55px;
+  width:55px;
+}
 .twitter{
   height:50px;
   width: 50px;
   margin-right: 20px;
 }
+.twitter:hover{
+  height:60px;
+  width:60px;
+}
 .instagram{
   height:50px;
   width: 50px;
+}
+.instagram:hover{
+  height:60px;
+  width:60px;
 }
 .copyright-text{
 color: #EAF6F6;
